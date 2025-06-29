@@ -8,10 +8,6 @@ Dataset: Synthetic telecom dataset (telecom_churn.csv) with customer information
 Model: Random Forest Classifier, achieving an AUC-ROC score above 0.75.
 Tools: Python, pandas, scikit-learn, matplotlib, seaborn.
 
-Files
-
-customer_churn_prediction.py: Python script with the full code, including EDA, preprocessing, model training, and visualizations.
-telecom_churn.csv: Sample dataset (Note: In practice, replace with actual dataset).
 
 Installation
 
