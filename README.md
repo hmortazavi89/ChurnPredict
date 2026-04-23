@@ -11,7 +11,7 @@ Tools: Python, pandas, scikit-learn, matplotlib, seaborn.
 
 Installation
 
-Clone the repository:git clone https://github.com/yourusername/ChurnPredict.git
+
 
 
 Install dependencies:pip install pandas scikit-learn matplotlib seaborn numpy
