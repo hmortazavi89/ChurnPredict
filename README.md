@@ -21,11 +21,6 @@ Run the Python script:python customer_churn_prediction.py
 
 
 
-Results
-
-Achieved an AUC-ROC score above 0.75, indicating strong model performance.
-Identified key features (tenure, contract type) driving churn predictions.
-Visualized feature importance and ROC curves for actionable insights.
 
 Future Work
 
